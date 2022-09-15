@@ -20,8 +20,9 @@
 <br/>
 
 ### About Me 🚀
-🌱 I’m a final year student pursuing B.Tech.  in Computer Science & Engineering from IIT Ropar. </br>
-👨‍💻  I am keenly interested in Software Development and I enjoy learning new things. </br>
+🎓 I’m a _final_ year student pursuing B.Tech.  in Computer Science & Engineering from IIT Ropar. </br>
+👨‍💻 I'm keenly interested in Software Development. </br>
+👯 I'm open to collaboration for projects and idea discussions.
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
