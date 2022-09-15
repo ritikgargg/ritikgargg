@@ -1,1 +1,1 @@
-![Ritik Garg Banner Image ](./banner2.png)
+![Ritik Garg Banner Image ](./banner-svg.svg)
